@@ -13,16 +13,16 @@ p{
 
 
 
-#courses{
+#pricing{
   padding: 100px;
 }
 
-.course-text{
+.price-text{
   font-size: 3rem;
   line-height: 1.5;
 }
 
-.courses-col{
+.pricing-col{
   padding: 3% 2%;
 }
 
