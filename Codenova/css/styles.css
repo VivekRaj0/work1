@@ -1,0 +1,34 @@
+body{
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family: "Montserrat-bold";
+}
+
+p{
+  color: #8f8f8f;
+}
+
+
+
+#pricing{
+  padding: 100px;
+}
+
+.price-text{
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.pricing-col{
+  padding: 3% 2%;
+}
+
+
+.cta-heading{
+  font-family: "Montserrat-black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
