@@ -13,22 +13,18 @@ p{
 
 
 
-#pricing{
+#courses{
   padding: 100px;
 }
 
-.price-text{
+.course-text{
   font-size: 3rem;
   line-height: 1.5;
 }
 
-.pricing-col{
+.courses-col{
   padding: 3% 2%;
 }
 
 
-.cta-heading{
-  font-family: "Montserrat-black";
-  font-size: 3.5rem;
-  line-height: 1.5;
-}
+
